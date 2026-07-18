@@ -879,6 +879,7 @@ markers:
   - {type: substitution, offset: 2782, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: substitution, offset: 2789, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
   - {type: punctuation, offset: 2790, content: (, id: KR4d0159_krp_006-bkkpn1}
+  - {type: voice, offset: 2790, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2791, content: /, id: KR4d0159_krp_006-bkkpn2}
   - {type: punctuation, offset: 2792, content: ), id: KR4d0159_krp_006-bkkpn3}
   - {type: 'kr:newline', offset: 2794, content: '
@@ -960,6 +961,7 @@ markers:
       ', id: KR4d0159_krp_006-bkkkrnewl192}
   - {type: line-break, offset: 3005, content: '', id: KR4d0159_SBCK_006-9b06}
   - {type: punctuation, offset: 3005, content: (, id: KR4d0159_krp_006-bkkpn4}
+  - {type: voice, offset: 3005, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 3007, content: /, id: KR4d0159_krp_006-bkkpn5}
   - {type: punctuation, offset: 3009, content: ), id: KR4d0159_krp_006-bkkpn6}
   - {type: variant, offset: 3026, length: 1, content: 拗, SBCK: 􅉾}
@@ -1016,6 +1018,7 @@ markers:
       ', id: KR4d0159_krp_006-bkkkrnewl201}
   - {type: line-break, offset: 3144, content: '', id: KR4d0159_SBCK_006-10a04}
   - {type: punctuation, offset: 3150, content: (, id: KR4d0159_krp_006-bkkpn7}
+  - {type: voice, offset: 3150, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3151, content: ), id: KR4d0159_krp_006-bkkpn8}
   - {type: 'kr:newline', offset: 3151, content: '
 
@@ -1025,4 +1028,4 @@ markers:
 
       ', id: KR4d0159_krp_006-bkkkrnewl203}
   back: []
-hash: sha256:2d9931c1ddc062cda5b12fa5ded366660328c456bbfec480fa2ae8a923837bc3
+hash: sha256:e9ae2b0718f069379221b5fb6608c5d1599992e6ac5a06599f6f921b07d06ad8

@@ -267,6 +267,7 @@ markers:
       ', id: KR4d0159_SBCK_032-bkkkrnewl63}
   - {type: line-break, offset: 1003, content: '', id: KR4d0159_SBCK_032-3b09}
   - {type: punctuation, offset: 1010, content: (, id: KR4d0159_SBCK_032-bkkpn1}
+  - {type: voice, offset: 1010, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 1013, content: /, id: KR4d0159_SBCK_032-bkkpn2}
   - {type: punctuation, offset: 1016, content: ), id: KR4d0159_SBCK_032-bkkpn3}
   - {type: 'kr:newline', offset: 1026, content: '
@@ -978,6 +979,7 @@ markers:
   - {type: line-break, offset: 3925, content: '', id: KR4d0159_SBCK_032-11b06}
   - {type: indent, offset: 3926, content: 　, id: KR4d0159_SBCK_032-bkkind23}
   - {type: punctuation, offset: 3943, content: (, id: KR4d0159_SBCK_032-bkkpn4}
+  - {type: voice, offset: 3943, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3944, content: /, id: KR4d0159_SBCK_032-bkkpn5}
   - {type: punctuation, offset: 3945, content: ), id: KR4d0159_SBCK_032-bkkpn6}
   - {type: 'kr:newline', offset: 3945, content: '
@@ -1142,6 +1144,7 @@ markers:
       ', id: KR4d0159_SBCK_032-bkkkrnewl276}
   - {type: line-break, offset: 4611, content: '', id: KR4d0159_SBCK_032-13b02}
   - {type: punctuation, offset: 4617, content: (, id: KR4d0159_SBCK_032-bkkpn7}
+  - {type: voice, offset: 4617, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4618, content: /, id: KR4d0159_SBCK_032-bkkpn8}
   - {type: punctuation, offset: 4619, content: ), id: KR4d0159_SBCK_032-bkkpn9}
   - {type: 'kr:newline', offset: 4621, content: '
@@ -1149,9 +1152,10 @@ markers:
       ', id: KR4d0159_SBCK_032-bkkkrnewl277}
   - {type: line-break, offset: 4621, content: '', id: KR4d0159_SBCK_032-13b03}
   - {type: punctuation, offset: 4629, content: (, id: KR4d0159_SBCK_032-bkkpn10}
+  - {type: voice, offset: 4629, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 4630, content: ), id: KR4d0159_SBCK_032-bkkpn11}
   - {type: 'kr:newline', offset: 4630, content: '
 
       ', id: KR4d0159_SBCK_032-bkkkrnewl278}
   back: []
-hash: sha256:d76db4b71be8225a120025a0011f13524cad3df8b0891bedf573850546675cab
+hash: sha256:982f7c4d9db16a4244e83fa34c553598677449428a8fbf89a7f61d661923a504
